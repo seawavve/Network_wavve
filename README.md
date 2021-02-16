@@ -3,7 +3,7 @@
 Reading and implementing network papers  
   
   
-이미지넷 이미지 인식 대회(ILSVRC)에서 좋은 성적을 거둔 네트워크의 형태를 직접 파악하고 구현
+이미지넷 이미지 인식 대회(ILSVRC)에서 좋은 성적을 거두었거나 특색이 있는 네트워크의 형태를 직접 파악하고 구현
   
 <구현예정>  
 + LeNet-5  

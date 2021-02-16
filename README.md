@@ -12,3 +12,4 @@ Reading and implementing network papers
 + googleNet  
 + resNet  
 + SENet  
++ mobileNet

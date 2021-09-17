@@ -1,4 +1,5 @@
 # Network_wavve  
+
 네트워크 논문 읽고 구현하기  
 Reading and implementing network papers  
   
@@ -14,3 +15,10 @@ Reading and implementing network papers
 + SENet  
 + mobileNet
 + U-Net
+
+
+----------------
+  
+최적화해 사용해본 네트워크를 보관하기
++ repnet
++ ssd mobilenet - object detection

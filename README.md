@@ -22,3 +22,4 @@ Reading and implementing network papers
 최적화해 사용해본 네트워크를 보관하기
 + repnet
 + ssd mobilenet - object detection
++ KoGPT2
